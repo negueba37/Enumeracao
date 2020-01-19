@@ -1,0 +1,11 @@
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\Gabriel Developer\source\repos\Enumeracao\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
